@@ -11,8 +11,9 @@ body{
     text-align: center;
 }
 .d1{
-    text-align: end;
+    text-align: center;
     font-size: large;
+    margin-left: 800px;
 }
 .D1{
     margin: 20px;
@@ -28,3 +29,7 @@ body{
 .d1 :hover{
     transition: 1s;
     border-radius: 50%;}
+.p{
+        text-align: center;
+        font-size: large;
+    }
